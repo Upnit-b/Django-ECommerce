@@ -124,10 +124,6 @@ The admin panel is fully customized:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for more information.
-
 ---
 
 ## 📬 Contact

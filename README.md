@@ -124,8 +124,6 @@ The admin panel is fully customized:
 
 ---
 
----
-
 ## 📬 Contact
 
 Built by [@Upnit-b](https://github.com/Upnit-b) — feel free to reach out via GitHub Issues for any suggestions or bugs.
